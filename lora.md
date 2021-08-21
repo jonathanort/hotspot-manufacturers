@@ -1,22 +1,23 @@
-# Manufacturer name
+# Lora
 ### Application to become an approved third party manufacturer as per [HIP19](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
 ## Summary
 
-Two sentences about who you are and what you’d like to build. Indicate if you are building a Light Gateway, or a Full Gateway. Bonus points to include photos and links.
+Lora is a venture focused on the Helium ecosystem. While it's a new venture the people behind have a lot of experience from manufacturing IOT-devices for the consumer sector.
 
 ## Company Information (required)
 
-* What is your company name?
-* How long have you been in business?
-* What kind of products have you created?
-* How many have you sold?
-* What brought you to Helium etc?
+* What is your company name? Lora AB
+* How long have you been in business? 6 months
+* What kind of products have you created? iOT-devices for the consumer sector
+* How many have you sold? 30 000+
+* What brought you to Helium etc? To make better and more attractive helium devices.
 
 ## Product Information (required)
 
 Your time to shine! What are you building? What’s so great about it?
-* What is your approximate price point?
+We are building a completely new type of gateway that is more attractive and more reliable.
+* First gateway ($350-400)
 * Detailed hardware designs, including relevant parts
 * Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better.
 * Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise.
@@ -26,14 +27,14 @@ Photos and videos welcome.
 ## Previous shipments (required)
 
 Startups welcome! Answer No if that's the answer.
-* Have you shipped anything in the past?
-* Which countries have you previously shipped regulatory FCC or CE approved products?
-* Which countries do you plan to ship to?
+* Have you shipped anything in the past? Yes
+* Which countries have you previously shipped regulatory FCC or CE approved products? Yes, to all major EU countries, the US and Canada
+* Which countries do you plan to ship to? The nordics, followed by Germany, France, Spain and US
 
 ## Customer Support (required)
 
-* How will your customers be able to contact you for support for your products?
-* For how long? How are you planning to handle repairs and replacements?
+* How will your customers be able to contact you for support for your products? For the lifespan of the product
+* For how long? How are you planning to handle repairs and replacements? 24 months after purchase.
 
 ## Hardware Security Element (required)
 
@@ -55,10 +56,10 @@ Please let us know:
 
 ## Manufacturing Information (required)
 
-* Have you built and delivered radio hardware products before?
-* Have you built gateways before?
-* How many gateways did you make?
-* If you have not built gateways before, are you using a third party manufacturer?
+* Have you built and delivered radio hardware products before? Yes
+* Have you built gateways before? No
+* How many gateways did you make? No
+* If you have not built gateways before, are you using a third party manufacturer? Yes
 This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 
 ## Proof of Identity
@@ -68,19 +69,16 @@ Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ o
 
 ## Budget & Capital (required)
 
-* How many of these are you hoping to make and sell?
-* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash.
+We intend to produce 10 000 units upfront and after that another 5 000 units per week to keep up with demand.
 
 ## Risks & Challenges (required)
 
-Please tell us about some of the challenges that would prevent these products from becoming a reality, and how you might address them.
+The biggest challend for us is manufacturing of SX1303 and availability of Raspberry PI.
+
+We plan to order 40% more than we need, and in that way we think we'll overcome this challenge.
 
 ## Other information (required)
 
-* Contact info (* required) -
-* Twitter profile -
-* Facebook profile -
-* Other social profiles -
-* Website -
-* Payment methods available -
-* Regions covered / shipped to -
+* Website joinlora.com
+* Payment methods available All major credit cards, and soon HNT
+* Regions covered / shipped to - EU countries
